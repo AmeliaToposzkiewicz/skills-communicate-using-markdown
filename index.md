@@ -6,3 +6,7 @@
 ``` java
 System.out.println("Hello world!");
 ```
+- [x] Eat
+- [x] Learn
+- [ ] Sleep
+- [ ] Repeat
